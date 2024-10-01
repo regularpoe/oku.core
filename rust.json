@@ -1,0 +1,4 @@
+{
+  "write_file": "fn write_file(path: &str, content: &str) { /*...*/ }",
+  "read_file": "fn read_file(path: &str) -> String { /*...*/ }"
+}
