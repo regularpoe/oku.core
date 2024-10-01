@@ -13,10 +13,10 @@ oku.core 12 elixir read_file my_elixir_file.ex
 ```
 
 ```
-N - line number
-template - your predefined template
+N            - line number
+template     - your predefined template
 snippet_name - name of the snippet you want to insert
-file - name of the file you are inserting to
+file         - name of the file you are inserting to
 ```
 
 ### Templates
